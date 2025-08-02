@@ -27,10 +27,10 @@ A collection of fundamental data structures and algorithms implemented in C++ as
 ---
 
 ## Institution 
-Course: ESE 224: Advanced Programming and Data Structures
-Instructor: Prof. Xin Wang
-Semester: Fall 2023
-School: Stony Brook University
-Author: Naafiul Hossain
+- **Course**: ESE 224: Advanced Programming and Data Structures
+-**Instructor**: Prof. Xin Wang
+-**Semester**: Fall 2023
+-**School**: Stony Brook University
+-**Author**: Naafiul Hossain
 
 
